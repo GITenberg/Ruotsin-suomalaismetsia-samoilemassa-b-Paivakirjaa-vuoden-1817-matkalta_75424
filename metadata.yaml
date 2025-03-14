@@ -1,0 +1,49 @@
+_repo: Ruotsin-suomalaismetsia-samoilemassa-b-Paivakirjaa-vuoden-1817-matkalta_75424
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Salminen, Väinö
+    aliases:
+    - Salminen, Väinö William
+    - Salminen, Vaino
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '57944'
+    url: http://www.gutenberg.org/2009/agents/57944
+    wikipedia: https://fi.wikipedia.org/wiki/V%C3%A4in%C3%B6_Salminen
+creator:
+  author:
+    agent_name: Gottlund, C. A. (Carl Axel)
+    aliases:
+    - Gottlund, Carl Axel
+    - Gottlund, Kaarle Aksel
+    birthdate: 1796
+    deathdate: 1875
+    gutenberg_agent_id: '44225'
+    url: http://www.gutenberg.org/2009/agents/44225
+    wikipedia: http://fi.wikipedia.org/wiki/Carl_Axel_Gottlund
+description: 'Partial Finnish translation of the author''s unpublished manuscript
+  entitled: C. A. Gottlund''s Dagbok öfver dess resor på Finnskogarna i Sverige och
+  Norrige åren 1817 och 1821.'
+gutenberg_issued: '2025-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75424'
+  lccn: '29000101'
+language: fi
+pgterms:marc905: 20250217072907gottlund
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Scanned and digitized by Petteri Pitkänen
+publication_note: '  $aHelsinki :$bSuomalaisen kirjallisuuden seura, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Forest Finns'
+- !lcsh 'Sweden -- Description and travel'
+- !lcsh 'Gottlund, C. A. (Carl Axel), 1796-1875 -- Travel -- Sweden'
+- !lcc 'DL'
+- GITenberg
+title: 'Ruotsin suomalaismetsiä samoilemassa : $b Päiväkirjaa vuoden 1817 matkalta'
+url: http://www.gutenberg.org/ebooks/75424
