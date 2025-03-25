@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '57944'
     url: http://www.gutenberg.org/2009/agents/57944
     wikipedia: https://fi.wikipedia.org/wiki/V%C3%A4in%C3%B6_Salminen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gottlund, C. A. (Carl Axel)
@@ -25,6 +28,8 @@ creator:
 description: 'Partial Finnish translation of the author''s unpublished manuscript
   entitled: C. A. Gottlund''s Dagbok öfver dess resor på Finnskogarna i Sverige och
   Norrige åren 1817 och 1821.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75424#Ruotsin-suomalaismetsia-samoilemassa-b-Paivakirjaa-vuoden-1817-matkalta
 gutenberg_issued: '2025-02-20'
 gutenberg_type: Text
 identifiers:
